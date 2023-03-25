@@ -8,7 +8,7 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "ཫƬꃅͥεͣεͫᎮ๏ᏒᏆཀ"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "Your value"
+    DB_URI = "mongodb+srv://Yukkibot:yukkijamel@cluster0.qqpax.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
     STRING_SESSION = "1BVtsOLABu1MPPH1uWQYxFhJjSb-m94CTURb83vOmc4o8_bo9Zl8VBjmPDLCUUBytax2APCnTcdE96-iYw-qrIF1-KJmpJxdBqqv0eFdO8H15iU-ov61upEJM-OFjyatUaDWv1HoYPYpMihKsYRG318-YSDzfy91oqS4zPK1fnBJKYFgPfCY0h-6ss1t9YrwJutDJYkYLr-5c9M1TtN2qlp8jcUB_KIuWnKc847_NYf9JT3OziODQjUmsKk7hVLl-MM6s__i72Hq4rMHxegc4MinxnvA6Txqg4odrGzt3Tzm0113pOAL4SU9mRhHT-f2RqeLGKMq2G1ALqRmWYDbuTOYPDCIlTb8="
     # create a new bot in @botfather and fill the following vales with bottoken
